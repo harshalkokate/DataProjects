@@ -1,2 +1,2 @@
 # Data Projects
-This repository is a series of python data projects.
+This repository is a series of python machine learning projects.
